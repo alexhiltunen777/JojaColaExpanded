@@ -1,0 +1,107 @@
+{
+    //Translation credits to vin163 on Nexus
+
+    //Joja Cola Expanded
+     
+    
+    // ####################  COLA BOXES  #########################
+    
+    "JCE.Box.Basic.name": "Boîte Joja Cola",
+    "JCE.Box.Basic.description": "Une boîte contenant une canette aléatoire de Joja Cola. Ce sont des canettes assez courantes. Utiliser pour ouvrir.",
+    
+    "JCE.Box.Deluxe.name": "Boîte Joja Cola Deluxe",
+    "JCE.Box.Deluxe.description": "Une boîte contenant une canette moins courante et aléatoire de Joja Cola. Utiliser pour ouvrir.",
+    
+    "JCE.Box.Premium.name": "Boîte Joja Cola Premium",
+    "JCE.Box.Premium.description": "Une boîte professionnelle et rare contenant une canette aléatoire de Joja Cola haut de gamme. Utiliser pour ouvrir.",
+    
+    "JCE.Box.Import.name": "Boîte Premium Joja Cola importé",
+    "JCE.Box.Import.description": "Une boîte insolite de couleur melon, contenant une canette de Joja Cola. Vous ne comprenez pas les lettres sur la boîte. Utiliser pour ouvrir.",
+    
+    // ####################  COLAS  #########################
+    
+    
+    "JCE.Cola.Cherry.name": "Joja Cola Cherry",
+    "JCE.Cola.Cherry.description": "La version rouge du produit phare de Joja Corporation. Une ambroisie pour certains.",
+    "JCE.Cola.Grape.name": "Joja Cola Raisin",
+    "JCE.Cola.Grape.description": "La version violette du produit phare de Joja Corporation. Contient moins de 1% de jus.",
+    "JCE.Cola.Cream.name": "Joja Cola Crème",
+    "JCE.Cola.Cream.description": "Une bière de racine mousseuse, présentée par Joja Corporation.",
+    "JCE.Cola.Star.name": "Joja Cola Star",
+    "JCE.Cola.Star.description": "Le soda citron-lime de Joja Corporation. A reçu son nom après une tentative de changement de marque il y a quelques années, prétendument pour plaire à une jeune génération.",
+    "JCE.Cola.Quartz.name": "Joja Cola Quartz",
+    "JCE.Cola.Quartz.description": "Le soda au citron de Joja Corporation. Très apprcié des mineurs (ceux avec des pelles et pioches, pas les autres). Variante 0% sucre.",
+    "JCE.Cola.Bean.name": "Joja Cola Haricot",
+    "JCE.Cola.Bean.description": "Une boisson inspirée du café de Joja Corporation.",
+    "JCE.Cola.Punch.name": "Joja Cola Punch Perroquet",
+    "JCE.Cola.Punch.description": "Une boisson aux fruits de Joja Corporation. Il y a un petit bonhomme bizarre sur l'étiquette.",
+    
+    "JCE.Cola.Gamer.name": "Joja Cola Gamer",
+    "JCE.Cola.Gamer.description": "Une boisson faisant la promotion d'un jeu vidéo old scool. Cela vaudra peut-être beaucoup plus, un jour.",
+    "JCE.Cola.BB.name": "Joja BaJoja Blast",
+    "JCE.Cola.BB.description": "Une boisson rare à saveur de citron vert tropical de Joja Corporation. Généralement exclusive à un restaurant de restauration rapide populaire.",
+    "JCE.Cola.HL.name": "Joja Cola Eclair de miel",
+    "JCE.Cola.HL.description": "Une boisson peu commune aromatisée à la pêche et au miel de Joja Corporation. Généralement exclusive à un restaurant de restauration rapide populaire.",
+    "JCE.Cola.Bluu.name": "Joja Cola Bluu",
+    "JCE.Cola.Bluu.description": "Une nouvelle boisson, Bluu, de Joja Corporation. Elle contient trois fois plus de sorbitol pour une explosion de saveur épaisse et sucrée. Et c'est moins cher que l'eau !",
+    "JCE.Cola.Recharge.name": "Joja Cola Recharge",
+    "JCE.Cola.Recharge.description": "Une boisson énergisante inhabituelle de Joja Corporation. Ses vertues sont énergisantes, dit-on.",
+    "JCE.Cola.Overcharge.name": "Joja Cola Overcharge",
+    "JCE.Cola.Overcharge.description": "Une boisson énergisante puissante de Joja Corporation. Ne la consommez pas si vous avez des antécédents de problèmes cardiaques.",
+    "JCE.Cola.RechargePeach.name": "Joja Cola Recharge Pêche",
+    "JCE.Cola.ReachargePeach.description": "Une boisson énergisante rose de Joja Corporation.",
+    "JCE.Cola.Battery.name": "Joja Cola Battery",
+    "JCE.Cola.Battery.description": "Une boisson énergisante inspirée des piles de Joja Corporation.",
+    
+    "JCE.Cola.JackedCherry.name": "Joja Cola Jacked Cherry",
+    "JCE.Cola.JackedCherry.description": "Un complément alimentaire aromatisé à la cerise de Joja Corporation. Accorde à son buveur l'illusion d'un pouvoir illimité.",
+    "JCE.Cola.Jacked.name": "Joja Cola Jacked",
+    "JCE.Cola.Jacked.description": "Un complément alimentaire aromatisé à la framboise bleue de Joja Corporation. Accorde à son buveur l'illusion d'un pouvoir illimité.",
+    "JCE.Cola.JackedGold.name": "Joja Cola Jacked Gold",
+    "JCE.Cola.JackedGold.description": "Un complément alimentaire aromatisé aux céréales pour petit-déjeuner de Joja Corporation. Non-destiné à la consommation humaine.",
+    "JCE.Cola.Void.name": "Joja Cola du vide",
+    "JCE.Cola.Void.description": "Une boisson pour un marché alternatif de Joja Corporation. Ça sent le soufre, et ça a le goût de pamplemousse.",
+    "JCE.Cola.Berserk.name": "Joja Cola Berserk",
+    "JCE.Cola.Berserk.description": "Un complément alimentaire promotionnel de Joja Corporation. Donne la force de défier la causalité de l'univers.",
+    "JCE.Cola.Z.name": "Joja Cola Z",
+    "JCE.Cola.Z.description": "La version la plus puissante du produit phare de Joja Corporation.",
+    "JCE.Cola.Burn.name": "Joja Cola Burn",
+    "JCE.Cola.Burn.description": "Vous êtes presque sûr que ce n'est que du Joja Cola ordinaire. Tout ce bla-bla publicitaire n’est qu’un placebo.",
+    "JCE.Cola.Prism.name": "Joja Cola Prismatique",
+    "JCE.Cola.Prism.description": "Une boisson énergisante puissante et étrangement saisonnière de Joja Corporation.",
+    
+    "JCE.Cola.Hydro.name": "Joja Cola Hydro",
+    "JCE.Cola.Hydro.description": "Eau, propriété de Joja Corporation.",
+    "JCE.Cola.Fantasy.name": "Joja Cola Fantasy",
+    "JCE.Cola.Fantasy.description": "Ne demandez pas à Joja Corporation ce qu'elle faisait il y a 80 ans.",
+    "JCE.Cola.AllStar.name": "Joja Cola All Star",
+    "JCE.Cola.AllStar.description": "Une boisson énergisante de Joja Corporation.",
+    "JCE.Cola.Do.name": "Joja Cola Do",
+    "JCE.Cola.Do.description": "Une boisson populaire aromatisée aux agrumes de Joja Corporation.",
+    "JCE.Cola.DoRed.name": "Joja Cola Do - Code Strawberry",
+    "JCE.Cola.DoRed.description": "Une boisson rouge de Joja Corporation, qui surfe sur le succès du Joja Cola Do.",
+    "JCE.Cola.DoBlue.name": "Joja Cola Do - Blue Jazz",
+    "JCE.Cola.DoBlue.description": "Une boisson bleue de Joja Corporation, qui surfe sur le succès du Joja Cola Do.",
+    "JCE.Cola.Rip.name": "Joja Cola Rip",
+    "JCE.Cola.Rip.description": "Une boisson énergisante bon marché fréquemment fournie aux troupes de la République de Ferngill de l'autre côté de l'étang.",
+    "JCE.Cola.Gold.name": "Joja Cola Doré",
+    "JCE.Cola.Gold.description": "Une variante rare et coûteuse du produit phare de Joja Corporation.",
+    
+    "JCE.Cola.Freedom.name": "Joja Cola Freedom",
+    "JCE.Cola.Freedom.description": "Une variante promotionnelle de Joja Cola, destinée à l'origine à célébrer la fin de la guerre à Gotoro. Sortie tôt comme un unique coup publicitaire.",
+    "JCE.Cola.Original.name": "Joja Cola Originel",
+    "JCE.Cola.Original.description": "La recette originale et disparue de Joja Cola. Ce n’est probablement pas légal de posséder ou de consommer.",
+    "JCE.Cola.Sarsa.name": "Joja Sarsaparilla",
+    "JCE.Cola.Sarsa.description": "La boisson préférée du Roi de la Prairie.",
+    "JCE.Cola.Pink.name": "Joja Cola Rose",
+    "JCE.Cola.Pink.description": "Une variante du produit phare de Joja Corporation, rendu plus puissant par son aspect rose.",
+    "JCE.Cola.Wumbus.name": "Joja Wumbus Cola (Limited Edition)",
+    "JCE.Cola.Wumbus.description": "Une boisson promotionnelle célébrant la première de Wumbus. Auparavant controversée, en raison d'une tasse de soda involontairement obscène utilisée dans les théâtres lors de la première pièce originale.",
+    "JCE.Cola.Rare.name": "Joja Cola Rare",
+    "JCE.Cola.Rare.description": "Une boisson énergisante rare, censée contenir les saveurs les plus sucrées. Apparemment, elle est assez édulcoré.",
+    "JCE.Cola.Discovery.name": "Joja Cola Discovery",
+    "JCE.Cola.Discovery.description": "Une boisson énergisante expérimentale contenant un fruit ancien récemment découvert. Goût indescriptible.",
+    "JCE.Cola.Comet.name": "Joja Cola Comète",
+    "JCE.Cola.Comet.description": "Une boisson énergisante expérimentale contenant prétendument un fruit violet en forme d'étoile découverte à Stardew Valley. Considérablement édulcoré.",
+    
+    }

@@ -1,0 +1,1062 @@
+{
+    "Changes":[
+ 
+        
+        {
+            //player_add (O)Objection777_JojaColaExpanded_BasicBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_DeluxeBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_PremiumBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_ImportBox 300 0
+                        
+            
+            //Joja:
+            // 1) Basic Box ($)
+            // 2) Soda Trade low tier
+            // 3) Soda Trade medium tier
+            // 4) Soda low tier ($)
+            // 5) Soda medium tier ($)
+            // 6) Deluxe Box ($)
+            // 7) End of month import box sale ($)
+
+
+
+                        "Action": "EditData",
+                        "Target": "Data/Shops",
+                        "TargetField":[
+                            "Joja",
+                            "Items"
+                        ],
+                        "Entries": {
+                            "Objection777_JojaColaExpanded_BasicBox_Joja":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 25,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 6,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": true,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                //"Condition": "",
+                                "Id": "JC_BasicBox_Joja",
+                                "ItemId": "(O)Objection777_JojaColaExpanded_BasicBox",
+                                "RandomItemId": null,
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+
+
+                            },
+
+                            "JC_ColaTrade_Joja_Low":{
+                                "CustomFields": null,
+                                "TradeItemId": "167",
+                                "TradeItemAmount": 1,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 6,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                //"Condition": "",
+                                "Id": "JC_ColaTrade_Joja_Low",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Cherry",
+                                    "Objection777_JojaColaExpanded_JC_Grape",
+                                    "Objection777_JojaColaExpanded_JC_Cream",
+                                    "Objection777_JojaColaExpanded_JC_Star",
+                                    "Objection777_JojaColaExpanded_JC_ParrotPunch",
+                                    "Objection777_JojaColaExpanded_JC_Pink",
+                                    "Objection777_JojaColaExpanded_JC_Fantasy",
+                                    "Objection777_JojaColaExpanded_JC_Rip",
+                                    "Objection777_JojaColaExpanded_JC_Hydro"
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "JC_ColaTrade_Joja_Mid":{
+                                "CustomFields": null,
+                                "TradeItemId": "167",
+                                "TradeItemAmount": 3,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 6,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                //"Condition": "",
+                                "Id": "JC_ColaTrade_Joja_Mid",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Bean",
+                                    "Objection777_JojaColaExpanded_JC_Quartz",
+                                    "Objection777_JojaColaExpanded_JC_BajojaBlast",
+                                    "Objection777_JojaColaExpanded_JC_HoneyLightning",
+                                    "Objection777_JojaColaExpanded_JC_Recharge",
+                                    "Objection777_JojaColaExpanded_JC_RechargePeach",
+                                    "Objection777_JojaColaExpanded_JC_Battery",
+                                    "Objection777_JojaColaExpanded_JC_AllStar"
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "JC_ColaMoney_Joja_Low":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 75,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 6,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                //"Condition": "",
+                                "Id": "JC_ColaMoney_Joja_Low",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Cherry",
+                                    "Objection777_JojaColaExpanded_JC_Grape",
+                                    "Objection777_JojaColaExpanded_JC_Cream",
+                                    "Objection777_JojaColaExpanded_JC_Star",
+                                    "Objection777_JojaColaExpanded_JC_ParrotPunch",
+                                    "Objection777_JojaColaExpanded_JC_Pink",
+                                    "Objection777_JojaColaExpanded_JC_Fantasy",
+                                    "Objection777_JojaColaExpanded_JC_Rip",
+                                    "Objection777_JojaColaExpanded_JC_Hydro"
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "JC_ColaMoney_Joja_Mid":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 100,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 6,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                //"Condition": "",
+                                "Id": "JC_ColaMoney_Joja_Mid",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Bean",
+                                    "Objection777_JojaColaExpanded_JC_Quartz",
+                                    "Objection777_JojaColaExpanded_JC_BajojaBlast",
+                                    "Objection777_JojaColaExpanded_JC_HoneyLightning",
+                                    "Objection777_JojaColaExpanded_JC_Recharge",
+                                    "Objection777_JojaColaExpanded_JC_RechargePeach",
+                                    "Objection777_JojaColaExpanded_JC_Battery",
+                                    "Objection777_JojaColaExpanded_JC_AllStar"
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "Objection777_JojaColaExpanded_DeluxeBox_Joja":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 125,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 2,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": true,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Condition": "DAYS_PLAYED 16",
+                                "Id": "JC_DeluxeBox_Joja",
+                                "ItemId": "(O)Objection777_JojaColaExpanded_DeluxeBox",
+                                "RandomItemId": null,
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "JC_ColaMoney_Joja_Power":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 500,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 4,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Condition": "DAYS_PLAYED 28",
+                                "Id": "JC_ColaMoney_Joja_Power",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Overcharge",
+                                    "Objection777_JojaColaExpanded_JC_JackedCherry",
+                                    "Objection777_JojaColaExpanded_JC_Jacked"
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "Objection777_JC_ColaMoney_Joja_Import":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 400,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 2,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Condition": "DAY_OF_MONTH 28",
+                                "Id": "JC_ImportBox_Joja",
+                                "ItemId": "(O)Objection777_JojaColaExpanded_ImportBox",
+                                "RandomItemId": null,
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+
+                            ///
+
+
+
+
+
+                            
+                            
+
+
+
+
+
+
+                        }//end of joja entries
+                    },//end of joja editdata
+                    
+                    {
+            
+            //Traveler:
+            // 1) Random Box ($)
+            // 2) Random Soda ($)
+
+                        "Action": "EditData",
+                        "Target": "Data/Shops",
+                        "TargetField":[
+                            "Traveler",
+                            "Items"
+                        ],
+                        "Entries": {
+
+                            "JC_Traveler_Box":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 150,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 2,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Id": "JC_Traveler_Box",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Overcharge",
+                                    "Objection777_JojaColaExpanded_JC_JackedCherry",
+                                    "Objection777_JojaColaExpanded_JC_Jacked",
+                                    "Objection777_JojaColaExpanded_DeluxeBox",
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "JC_Traveler_Soda":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 100,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 4,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                //"Condition": "",
+                                "Id": "JC_Traveler_Soda",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Bean",
+                                    "Objection777_JojaColaExpanded_JC_Quartz",
+                                    "Objection777_JojaColaExpanded_JC_BajojaBlast",
+                                    "Objection777_JojaColaExpanded_JC_HoneyLightning",
+                                    "Objection777_JojaColaExpanded_JC_Recharge",
+                                    "Objection777_JojaColaExpanded_JC_RechargePeach",
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+
+
+                            }//end of traveler entries
+                    },//end of traveler editdata
+
+
+
+                    {
+            
+            //Sandy:
+            // 1) Random Soda 1 ($)
+            // 2) Random Soda 2 ($)
+
+                        "Action": "EditData",
+                        "Target": "Data/Shops",
+                        "TargetField":[
+                            "Sandy",
+                            "Items"
+                        ],
+                        "Entries": {
+
+                            "JC_Sandy_Soda1":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 80,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 4,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Id": "JC_Sandy_Soda1",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_DoCodeStrawberry",
+                                    "Objection777_JojaColaExpanded_JC_Pink",
+                                    "Objection777_JojaColaExpanded_JC_HoneyLightning",
+                                    "Objection777_JojaColaExpanded_JC_Gamer",
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "JC_Sandy_Soda2":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 80,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 4,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Id": "JC_Sandy_Soda2",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Do",
+                                    "Objection777_JojaColaExpanded_JC_DoBlueJazz",
+                                    "Objection777_JojaColaExpanded_JC_Rip",
+                                    "Objection777_JojaColaExpanded_JC_BajojaBlast",
+                                    
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+
+
+                            }//end of sandy entries
+                    },//end of sandy editdata
+
+
+
+                    {
+            
+            //IceCreamStand:
+            // 1) Random Soda 1 ($)
+            
+
+                        "Action": "EditData",
+                        "Target": "Data/Shops",
+                        "TargetField":[
+                            "IceCreamStand",
+                            "Items"
+                        ],
+                        "Entries": {
+
+                            "JC_IceCreamStand_Soda":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 50,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 5,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Id": "JC_IceCreamStand_Soda",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Cream",
+                                    "Objection777_JojaColaExpanded_JC_Pink",
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            }//end of Ice Cream Stand entries
+                    },//end of Ice Cream Stand editdata
+
+                    {
+                    
+                    //Fair:
+            // 1) Good Soda 1
+            // 2) Premium box x3
+            // 3) bulk decent soda
+            
+                            
+                "Action": "EditData",
+                "Target": "Data/Shops",
+                "TargetField":[
+                    "Festival_StardewValleyFair_StarTokens",
+                    "Items"
+                ],
+                "Entries": {
+
+                    "JC_Fair_Soda1":{
+                        "CustomFields": null,
+                        "TradeItemId": null,
+                        "TradeItemAmount": 1,
+                        "Price": 150,
+                        "Currency": 1,
+                        "ApplyProfitMargins": null,
+                        "AvailableStock": 6,
+                        "AvailableStockLimit": "Player",
+                        "AvoidRepeat": false,
+                        "UseObjectDataPrice": false,
+                        "IgnoreShopPriceModifiers": false,
+                        "PriceModifiers": null,
+                        "PriceModifierMode": "Stack",
+                        "AvailableStockModifiers": null,
+                        "AvailableStockModifierMode": "Stack",
+                        "Id": "JC_Fair_Soda1",
+                        "ItemId": "Objection777_JojaColaExpanded_JC_BajojaBlast",
+                        "MaxItems": null,
+                        "MinStack": -1,
+                        "MaxStack": -1,
+                        "Quality": -1,
+                        "ObjectInternalName": null,
+                        "ObjectDisplayName": null,
+                        "ToolUpgradeLevel": -1,
+                        "IsRecipe": false,
+                        "StackModifiers": null,
+                        "StackModifierMode": "Stack",
+                        "QualityModifiers": null,
+                        "QualityModifierMode": "Stack",
+                        "PerItemCondition": null
+                    },
+
+                    "JC_Fair_Box":{
+                        "CustomFields": null,
+                        "TradeItemId": null,
+                        "TradeItemAmount": 1,
+                        "Price": 700,
+                        "Currency": 1,
+                        "ApplyProfitMargins": null,
+                        "AvailableStock": 3,
+                        "AvailableStockLimit": "Player",
+                        "AvoidRepeat": false,
+                        "UseObjectDataPrice": false,
+                        "IgnoreShopPriceModifiers": false,
+                        "PriceModifiers": null,
+                        "PriceModifierMode": "Stack",
+                        "AvailableStockModifiers": null,
+                        "AvailableStockModifierMode": "Stack",
+                        "Id": "JC_Fair_Box",
+                        "ItemId": "Objection777_JojaColaExpanded_PremiumBox",
+                        "MaxItems": null,
+                        "MinStack": -1,
+                        "MaxStack": -1,
+                        "Quality": -1,
+                        "ObjectInternalName": null,
+                        "ObjectDisplayName": null,
+                        "ToolUpgradeLevel": -1,
+                        "IsRecipe": false,
+                        "StackModifiers": null,
+                        "StackModifierMode": "Stack",
+                        "QualityModifiers": null,
+                        "QualityModifierMode": "Stack",
+                        "PerItemCondition": null
+                    },
+
+                }//end of fair entries
+        },//end of fair editdata
+
+
+        //Krobus: Main shop after CC
+        {
+            //player_add (O)Objection777_JojaColaExpanded_BasicBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_DeluxeBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_PremiumBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_ImportBox 300 0
+                        
+            
+            //Krobus:
+            // 1) Basic Box ($)
+            // 2) Soda Trade low tier
+            // 3) Soda Trade medium tier
+            // 4) Soda low tier ($)
+            // 5) Soda medium tier ($)
+            // 6) Deluxe Box ($)
+            // 7) End of month import box sale ($)
+            //only after CC complete IS_COMMUNITY_CENTER_COMPLETE
+
+
+                        "Action": "EditData",
+                        "Target": "Data/Shops",
+                        "TargetField":[
+                            "ShadowShop",
+                            "Items"
+                        ],
+                        "Entries": {
+                            "Objection777_JojaColaExpanded_BasicBox_Shadow":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 35,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 6,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": true,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Condition": "IS_COMMUNITY_CENTER_COMPLETE",
+                                "Id": "JC_BasicBox_Shadow",
+                                "ItemId": "(O)Objection777_JojaColaExpanded_BasicBox",
+                                "RandomItemId": null,
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+
+
+                            },
+
+                            "JC_ColaTrade_Shadow_Low":{
+                                "CustomFields": null,
+                                "TradeItemId": "167",
+                                "TradeItemAmount": 1,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 6,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Condition": "IS_COMMUNITY_CENTER_COMPLETE",
+                                "Id": "JC_ColaTrade_Shadow_Low",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Cherry",
+                                    "Objection777_JojaColaExpanded_JC_Grape",
+                                    "Objection777_JojaColaExpanded_JC_Cream",
+                                    "Objection777_JojaColaExpanded_JC_Star",
+                                    "Objection777_JojaColaExpanded_JC_ParrotPunch",
+                                    "Objection777_JojaColaExpanded_JC_Pink",
+                                    "Objection777_JojaColaExpanded_JC_Fantasy",
+                                    "Objection777_JojaColaExpanded_JC_Rip",
+                                    "Objection777_JojaColaExpanded_JC_Hydro"
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "JC_ColaTrade_Shadow_Mid":{
+                                "CustomFields": null,
+                                "TradeItemId": "167",
+                                "TradeItemAmount": 3,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 6,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Condition": "IS_COMMUNITY_CENTER_COMPLETE",
+                                "Id": "JC_ColaTrade_Shadow_Mid",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Bean",
+                                    "Objection777_JojaColaExpanded_JC_Quartz",
+                                    "Objection777_JojaColaExpanded_JC_BajojaBlast",
+                                    "Objection777_JojaColaExpanded_JC_HoneyLightning",
+                                    "Objection777_JojaColaExpanded_JC_Recharge",
+                                    "Objection777_JojaColaExpanded_JC_RechargePeach",
+                                    "Objection777_JojaColaExpanded_JC_Battery",
+                                    "Objection777_JojaColaExpanded_JC_AllStar"
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "JC_ColaMoney_Shadow_Low":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 100,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 6,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Condition": "IS_COMMUNITY_CENTER_COMPLETE",
+                                "Id": "JC_ColaMoney_Shadow_Low",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Cherry",
+                                    "Objection777_JojaColaExpanded_JC_Grape",
+                                    "Objection777_JojaColaExpanded_JC_Cream",
+                                    "Objection777_JojaColaExpanded_JC_Star",
+                                    "Objection777_JojaColaExpanded_JC_ParrotPunch",
+                                    "Objection777_JojaColaExpanded_JC_Pink",
+                                    "Objection777_JojaColaExpanded_JC_Fantasy",
+                                    "Objection777_JojaColaExpanded_JC_Rip",
+                                    "Objection777_JojaColaExpanded_JC_Hydro"
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "JC_ColaMoney_Shadow_Mid":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 150,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 6,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Condition": "IS_COMMUNITY_CENTER_COMPLETE",
+                                "Id": "JC_ColaMoney_Shadow_Mid",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Bean",
+                                    "Objection777_JojaColaExpanded_JC_Quartz",
+                                    "Objection777_JojaColaExpanded_JC_BajojaBlast",
+                                    "Objection777_JojaColaExpanded_JC_HoneyLightning",
+                                    "Objection777_JojaColaExpanded_JC_Recharge",
+                                    "Objection777_JojaColaExpanded_JC_RechargePeach",
+                                    "Objection777_JojaColaExpanded_JC_Battery",
+                                    "Objection777_JojaColaExpanded_JC_AllStar"
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "Objection777_JojaColaExpanded_DeluxeBox_Shadow":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 200,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 2,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": true,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Condition": "IS_COMMUNITY_CENTER_COMPLETE",
+                                "Id": "JC_DeluxeBox_Shadow",
+                                "ItemId": "(O)Objection777_JojaColaExpanded_DeluxeBox",
+                                "RandomItemId": null,
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "JC_ColaMoney_Shadow_Power":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 850,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 4,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Condition": "IS_COMMUNITY_CENTER_COMPLETE",
+                                "Id": "JC_ColaMoney_Shadow_Power",
+                                "ItemId": null,
+                                "RandomItemId": [
+                                    "Objection777_JojaColaExpanded_JC_Overcharge",
+                                    "Objection777_JojaColaExpanded_JC_JackedCherry",
+                                    "Objection777_JojaColaExpanded_JC_Jacked"
+                                  ],
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+                            "Objection777_JC_ColaMoney_Shadow_Import":{
+                                "CustomFields": null,
+                                "TradeItemId": null,
+                                "TradeItemAmount": 1,
+                                "Price": 600,
+                                "ApplyProfitMargins": null,
+                                "AvailableStock": 2,
+                                "AvailableStockLimit": "Global",
+                                "AvoidRepeat": false,
+                                "UseObjectDataPrice": false,
+                                "IgnoreShopPriceModifiers": false,
+                                "PriceModifiers": null,
+                                "PriceModifierMode": "Stack",
+                                "AvailableStockModifiers": null,
+                                "AvailableStockModifierMode": "Stack",
+                                "Condition": "DAY_OF_MONTH 28, IS_COMMUNITY_CENTER_COMPLETE",
+                                "Id": "JC_ImportBox_Shadow",
+                                "ItemId": "(O)Objection777_JojaColaExpanded_ImportBox",
+                                "RandomItemId": null,
+                                "MaxItems": null,
+                                "MinStack": -1,
+                                "MaxStack": -1,
+                                "Quality": -1,
+                                "ObjectInternalName": null,
+                                "ObjectDisplayName": null,
+                                "ToolUpgradeLevel": -1,
+                                "IsRecipe": false,
+                                "StackModifiers": null,
+                                "StackModifierMode": "Stack",
+                                "QualityModifiers": null,
+                                "QualityModifierMode": "Stack",
+                                "PerItemCondition": null
+                            },
+
+
+                            ///
+
+
+
+
+
+                            
+                            
+
+
+
+
+
+
+                        }//end of joja entries
+                    },
+
+
+
+                    
+    
+    ]
+    }

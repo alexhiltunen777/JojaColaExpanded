@@ -1,0 +1,85 @@
+{
+    "Format":"2.0.0",
+
+    //TO DO:
+
+ 
+//ShadowShop after CC
+
+
+    
+    //gift preferences
+
+    //translation
+    //part 2: mach joja, etc
+    
+    //CAN'T DO:
+    //add to fishing chest
+    //add to gold fishing chests
+    //add to qi loot box
+    //add to qi gold loot box
+    //add to desert cave chest loot
+    //add to fishing trash
+
+    //Later:
+    ////machine that gives daily drink
+
+
+    "Changes": [
+       
+        {//loads the spritesheet
+            "Action": "Load",
+            "Target": "Mods/Objection777.JojaColaExpanded/JojaCola",
+            "FromFile": "assets/{{TargetWithoutPath}}.png"
+
+        },
+
+        {//loads the Cola variants
+            "LogName": "Loading Cola List",
+            "Action": "Include",
+            "FromFile": "assets/colaList.json"
+        },
+
+        {//loads the Joja Cola Loot Boxes
+            "LogName": "Loading Lootbox List",
+            "Action": "Include",
+            "FromFile": "assets/colaBoxList.json"
+        },
+        
+        {//handles insertions to stores, trash, loot
+        "LogName": "Implementing Cola Boxes into trash",
+        "Action": "Include",
+        "FromFile": "assets/colaTrashLocations.json"
+        },
+
+        {//handles insertions to stores, trash, loot
+        "LogName": "Polluting the ocean with Joja cola",
+        "Action": "Include",
+        "FromFile": "assets/colaFishing.json"
+        },
+
+        {//handles insertions to stores, trash, loot
+        "LogName": "In stores now!",
+        "Action": "Include",
+        "FromFile": "assets/colaShopLocations.json"
+        },
+
+        {//Gift tasts
+        "LogName": "Adding Gift Tastes",
+        "Action": "Include",
+        "FromFile": "assets/colaGiftTastes.json"
+        },
+
+
+
+        
+        
+
+        
+
+
+
+    ]
+
+    
+}

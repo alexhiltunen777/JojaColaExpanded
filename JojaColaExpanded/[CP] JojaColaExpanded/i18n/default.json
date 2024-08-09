@@ -1,0 +1,111 @@
+{
+    //Joja Cola Expanded
+    
+
+// ####################  COLA BOXES  #########################
+
+    "JCE.Box.Basic.name": "Joja Cola Box",
+    "JCE.Box.Basic.description": "A box containing a random can of Joja Cola. These are pretty common. Use to open.",
+
+    "JCE.Box.Deluxe.name": "Joja Cola Deluxe Box",
+    "JCE.Box.Deluxe.description": "A less common, tacky box containing a random can of Joja Cola. Use to open.",
+
+    "JCE.Box.Premium.name": "Joja Cola Premium Box",
+    "JCE.Box.Premium.description": "A rare, professional box containing a random can of high-end Joja Cola. Use to open.",
+
+    "JCE.Box.Import.name": "Imported Joja Cola Premium Box",
+    "JCE.Box.Import.description": "An unusual, melon-colored box containing a can of Joja Cola. You don't understand the letters on the box. Use to open.",
+
+// ####################  COLAS  #########################
+
+
+    "JCE.Cola.Cherry.name": "Joja Cola Cherry",
+    "JCE.Cola.Cherry.description": "The red version of the flagship product of Joja Corporation. An ambrosia to some.",
+    "JCE.Cola.Grape.name": "Joja Cola Grape",
+    "JCE.Cola.Grape.description": "The purple version of the flagship product of Joja Corporation. Contains less than 1% juice.",
+    "JCE.Cola.Cream.name": "Joja Cola Cream",
+    "JCE.Cola.Cream.description": "A foamy root beer, brought to you by Joja Corporation.",
+    "JCE.Cola.Star.name": "Joja Cola Star",
+    "JCE.Cola.Star.description": "The lemon-lime soda of Joja Corporation. Received its name after an attempt at rebranding a few years ago, allegedly in order to appeal to a younger generation.",
+    "JCE.Cola.Quartz.name": "Joja Cola Quartz",
+    "JCE.Cola.Quartz.description": "The clear, lemon soda brought to you by Joja Corporation. Favored by miners, perhaps not minors. Diet variant.",
+    "JCE.Cola.Bean.name": "Joja Cola Bean",
+    "JCE.Cola.Bean.description": "A coffee-inspired beverage of Joja Corporation.",
+    "JCE.Cola.Punch.name": "Joja Cola Parrot Punch",
+    "JCE.Cola.Punch.description": "A fruit punch drink of Joja Corporation. It has a weird little guy on the label.",
+
+    "JCE.Cola.Gamer.name": "Joja Cola Gamer",
+    "JCE.Cola.Gamer.description": "A drink promoting a formerly beloved video game. This may be worth a lot one day.",
+    "JCE.Cola.BB.name": "Joja Cola BaJoja Blast",
+    "JCE.Cola.BB.description": "An uncommon tropical-lime flavored drink from Joja Corporation. Typically exclusive to a popular fast-food restaurant.",
+    "JCE.Cola.HL.name": "Joja Cola Honey Lightning",
+    "JCE.Cola.HL.description": "An uncommon peach-honey flavored drink from Joja Corporation. Typically exclusive to a popular fast-food restaurant.",
+    "JCE.Cola.Bluu.name": "Joja Cola Bluu",
+    "JCE.Cola.Bluu.description": "A new, Bluu, beverage from Joja corporation. It's got three times the sorbitol for a thick, sweet blast. And it's cheaper than water!",
+    "JCE.Cola.Recharge.name": "Joja Cola Recharge",
+    "JCE.Cola.Recharge.description": "An unusual, aesthetically pleasing energy drink from Joja Corporation. It will allegedly keep you going.",
+    "JCE.Cola.Overcharge.name": "Joja Cola Overcharge",
+    "JCE.Cola.Overcharge.description": "A powerful, aesthetically pleasing energy drink from Joja Corporation. Do not consume if you have a history of heart conditions.",
+    "JCE.Cola.RechargePeach.name": "Joja Cola Recharge Peach",
+    "JCE.Cola.ReachargePeach.description": "A pink, aesthetically pleasing energy drink from Joja Corporation.",
+    "JCE.Cola.Battery.name": "Joja Cola Battery",
+    "JCE.Cola.Battery.description": "A battery-inspired energy drink from Joja Corporation.",
+
+    "JCE.Cola.JackedCherry.name": "Joja Cola Jacked: Cherry",
+    "JCE.Cola.JackedCherry.description": "A cherry flavored dietary supplement of Joja Corporation. Grants the perception of unlimited power.",
+    "JCE.Cola.Jacked.name": "Joja Cola Jacked",
+    "JCE.Cola.Jacked.description": "A blue-raspberry flavored dietary supplement of Joja Corporation. Grants the perception of unlimited endurance.",
+    "JCE.Cola.JackedGold.name": "Joja Cola Jacked: Gold",
+    "JCE.Cola.JackedGold.description": "A breakfast-cereal flavored dietary supplement of Joja Corporation. Not for human consumption.",
+    "JCE.Cola.Void.name": "Joja Cola Void",
+    "JCE.Cola.Void.description": "A beverage for an alternative market, from Joja Corporation. Smells like sulfur, tastes like grapefuit.",
+    "JCE.Cola.Berserk.name": "Joja Cola Berserk",
+    "JCE.Cola.Berserk.description": "A promotional dietary supplement from Joja Corporation. Grants the strength to defy causality.",
+    "JCE.Cola.Z.name": "Joja Cola Z",
+    "JCE.Cola.Z.description": "The strongest version of the flagship product of Joja Corporation.",
+    "JCE.Cola.Burn.name": "Joja Cola Burn",
+    "JCE.Cola.Burn.description": "You're pretty sure this is just regular Joja Cola. Anything above that is just placebo.",
+    "JCE.Cola.Prism.name": "Joja Cola Prismatic Pride",
+    "JCE.Cola.Prism.description": "A powerful and oddly seasonal energy drink from Joja Corporation.",
+
+    "JCE.Cola.Hydro.name": "Joja Cola Hydro",
+    "JCE.Cola.Hydro.description": "Water, proprietary of Joja Corporation.",
+    "JCE.Cola.Fantasy.name": "Joja Cola Fantasy",
+    "JCE.Cola.Fantasy.description": "Don't ask Joja Corporation what they were doing 80 years ago.",
+    "JCE.Cola.AllStar.name": "Joja Cola AllStar",
+    "JCE.Cola.AllStar.description": "An energy drink from Joja Corporation.",
+    "JCE.Cola.Do.name": "Joja Cola Do",
+    "JCE.Cola.Do.description": "A popular citrus flavored drink of Joja Corporation.",
+    "JCE.Cola.DoRed.name": "Joja Cola Do: Code Strawberry",
+    "JCE.Cola.DoRed.description": "A red beverage of Joja Corporation, borrowing from the success of Joja Cola Do.",
+    "JCE.Cola.DoBlue.name": "Joja Cola Do: Blue Jazz",
+    "JCE.Cola.DoBlue.description": "A blue beverage of Joja Corporation, borrowing from the success of Joja Cola Do.",
+    "JCE.Cola.Rip.name": "Joja Cola Rip",
+    "JCE.Cola.Rip.description": "A cheap energy drink frequently supplied to Ferngill Republic troops across the pond.",
+    "JCE.Cola.Gold.name": "Joja Cola Gold",
+    "JCE.Cola.Gold.description": "A rare, expensive variant of the flagship product of Joja Corporation.",
+
+    "JCE.Cola.Freedom.name": "Joja Cola Freedom",
+    "JCE.Cola.Freedom.description": "A promotional variant of Joja Cola, originally meant to celebrate the end of the war in Gotoro. Released early as a publicity stunt.",
+    "JCE.Cola.Original.name": "Joja Cola Original Recipe",
+    "JCE.Cola.Original.description": "The extinct, original recipe of Joja Cola. This probably isn't legal to possess or consume.",
+    "JCE.Cola.Sarsa.name": "Joja Sarsaparilla",
+    "JCE.Cola.Sarsa.description": "The Prairie King's favorite drink.",
+    "JCE.Cola.Pink.name": "Joja Cola Pink",
+    "JCE.Cola.Pink.description": "A variant of the flagship product of Joja Corporation, made more powerful by its rose visage.",
+    "JCE.Cola.Wumbus.name": "Limited Edition Joja Wumbus Cola",
+    "JCE.Cola.Wumbus.description": "A promotional beverage celebrating the premier of Wumbus. Previously controversial due to an unintentionally lewd soda cup used in theaters during the original premier.",
+    "JCE.Cola.Rare.name": "Joja Cola Rare",
+    "JCE.Cola.Rare.description": "A rare energy drink, said to contain the sweetest of flavors. Allegedly is quite watered down.",
+    "JCE.Cola.Discovery.name": "Joja Cola Discovery",
+    "JCE.Cola.Discovery.description": "An experimental energy drink containing a recently discovered ancient fruit. Indescribeable taste.",
+    "JCE.Cola.Comet.name": "Joja Cola Comet",
+    "JCE.Cola.Comet.description": "An experimental energy drink allegedly containing a purple, star-shaped fruit discovered in Stardew Valley. Significantly watered down.",
+
+
+
+
+
+
+
+}

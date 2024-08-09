@@ -1,0 +1,114 @@
+{
+    "Changes":[
+    
+        {
+            //player_add (O)Objection777_JojaColaExpanded_BasicBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_DeluxeBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_PremiumBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_ImportBox 300 0
+                        
+                        "Action": "EditData",
+                        "Target": "Data/Objects",
+                        "Entries": {
+                            //player_add (O)Objection777_JojaColaExpanded_BasicBox 1 1
+                            //////////////////////////////////////////////////////////////////
+                            //(O)Objection777_JojaColaExpanded_BasicBox
+                            "Objection777_JojaColaExpanded_BasicBox": {
+                                "Name": "Joja Cola Box",
+                                "DisplayName": "{{i18n:JCE.Box.Basic.name}}",
+                                "Description": "{{i18n:JCE.Box.Basic.description}}",
+                                "Type": "Fish",
+                                "Category": -999,
+                                "Price": 25,
+                                "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                                "SpriteIndex": 40,
+                                "Edibility": -300,
+                                "IsDrink": false,
+                                "ExcludeFromFishingCollection": true,
+                                "ExcludeFromShippingCollection": true,
+                                "ExcludeFromRandomSale": true,
+                                "ContextTags": [
+                                    "color_blue",
+                                    "trash_item",
+                                    "fish_nonfish"
+                                ],
+                                "CustomFields": null,
+                            },
+            
+                            //(O)Objection777_JojaColaExpanded_DeluxeBox
+                            "Objection777_JojaColaExpanded_DeluxeBox": {
+                                "Name": "Joja Cola Deluxe Box",
+                                "DisplayName": "{{i18n:JCE.Box.Deluxe.name}}",
+                                "Description": "{{i18n:JCE.Box.Deluxe.description}}",
+                                "Type": "Fish",
+                                "Category": -20,
+                                "Price": 30,
+                                "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                                "SpriteIndex": 41,
+                                "Edibility": -300,
+                                "IsDrink": false,
+                                "ExcludeFromFishingCollection": true,
+                                "ExcludeFromShippingCollection": true,
+                                "ExcludeFromRandomSale": true,
+                                "ContextTags": [
+                                    "color_yellow",
+                                    "trash_item",
+                                    "fish_nonfish"
+                                ],
+                                "CustomFields": null,
+                            },
+            
+                            //(O)Objection777_JojaColaExpanded_PremiumBox
+                            "Objection777_JojaColaExpanded_PremiumBox": {
+                                "Name": "Joja Cola Premium Box",
+                                "DisplayName": "{{i18n:JCE.Box.Premium.name}}",
+                                "Description": "{{i18n:JCE.Box.Premium.description}}",
+                                "Type": "Fish",
+                                "Category": -20,
+                                "Price": 35,
+                                "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                                "SpriteIndex": 42,
+                                "Edibility": -300,
+                                "IsDrink": false,
+                                "ExcludeFromFishingCollection": true,
+                                "ExcludeFromShippingCollection": true,
+                                "ExcludeFromRandomSale": true,
+                                "ContextTags": [
+                                    "color_black",
+                                    "trash_item",
+                                    "fish_nonfish"
+                                ],
+                                "CustomFields": null,
+                            },
+            
+                            //(O)Objection777_JojaColaExpanded_ImportBox
+                            "Objection777_JojaColaExpanded_ImportBox": {
+                                "Name": "Imported Joja Cola Box",
+                                "DisplayName": "{{i18n:JCE.Box.Import.name}}",
+                                "Description": "{{i18n:JCE.Box.Import.description}}",
+                                "Type": "Fish",
+                                "Category": -20,
+                                "Price": 30,
+                                "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                                "SpriteIndex": 43,
+                                "Edibility": -300,
+                                "IsDrink": false,
+                                "ExcludeFromFishingCollection": true,
+                                "ExcludeFromShippingCollection": true,
+                                "ExcludeFromRandomSale": true,
+                                "ContextTags": [
+                                    "color_pink",
+                                    "color_green",
+                                    "trash_item",
+                                    "fish_nonfish"
+                                ],
+                                "CustomFields": null,
+                            },
+            
+            
+                            //end of entries
+                        }
+                    }
+    
+    ]
+    }

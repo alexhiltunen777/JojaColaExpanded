@@ -1,0 +1,268 @@
+{
+    "Changes":[
+        {
+
+            "Action": "EditData",
+            "Target": "Data/Fish",
+            "Entries": {
+                "Objection777_JojaColaExpanded_BasicBox": "Basic Cola Box/null/floater/1/1/600 2600/spring summer fall winter/both/-1/0/0.12/0/0/false",
+                "Objection777_JojaColaExpanded_DeluxeBox": "Deluxe Cola Box/null/floater/1/1/600 2600/spring summer fall winter/both/-1/0/0.08/0/0/false",
+                "Objection777_JojaColaExpanded_PremiumBox": "Premium Cola Box/null/floater/1/1/600 2600/spring summer fall winter/both/-1/0/0.04/0/0/false",
+                "Objection777_JojaColaExpanded_ImportBox": "Imported Cola Box/null/floater/1/1/600 2600/spring summer fall winter/both/-1/0/0.04/0/0/false"
+                
+            //player_add (O)Objection777_JojaColaExpanded_BasicBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_DeluxeBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_PremiumBox 300 0
+            //player_add (O)Objection777_JojaColaExpanded_ImportBox 300 0
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "Beach",
+                "Fish",
+            ],
+            "Entries": {
+                "Objection777_JojaColaExpanded_BasicBox":{
+                    "Id": "Objection777_JojaColaExpanded_BasicBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_BasicBox",
+                    "Condition": "!IS_COMMUNITY_CENTER_COMPLETE",
+                },
+
+                "Objection777_JojaColaExpanded_DeluxeBox":{
+                    "Id": "Objection777_JojaColaExpanded_DeluxeBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_DeluxeBox",
+                },
+
+                "Objection777_JojaColaExpanded_PremiumBox":{
+                    "Id": "Objection777_JojaColaExpanded_PremiumBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_PremiumBox",
+                    "Condition": "IS_COMMUNITY_CENTER_COMPLETE",
+                },
+
+                "Objection777_JojaColaExpanded_ImportBox":{
+                    "Id": "Objection777_JojaColaExpanded_ImportBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_ImportBox",
+                    "Condition": "YEAR 3",
+                },
+
+
+            },
+
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "Forest",
+                "Fish",
+            ],
+            "Entries": {
+                "Objection777_JojaColaExpanded_BasicBox":{
+                    "Id": "Objection777_JojaColaExpanded_BasicBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_BasicBox",
+                },
+
+                "Objection777_JojaColaExpanded_DeluxeBox":{
+                    "Id": "Objection777_JojaColaExpanded_DeluxeBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_DeluxeBox",
+                },
+
+                "Objection777_JojaColaExpanded_PremiumBox":{
+                    "Id": "Objection777_JojaColaExpanded_PremiumBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_PremiumBox",
+                    "Condition": "IS_COMMUNITY_CENTER_COMPLETE",
+                },
+
+                "Objection777_JojaColaExpanded_ImportBox":{
+                    "Id": "Objection777_JojaColaExpanded_ImportBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_ImportBox",
+                    "Condition": "YEAR 3",
+                },
+
+
+            },
+
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "Town",
+                "Fish",
+            ],
+            "Entries": {
+                "Objection777_JojaColaExpanded_BasicBox":{
+                    "Id": "Objection777_JojaColaExpanded_BasicBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_BasicBox",
+                },
+
+                "Objection777_JojaColaExpanded_DeluxeBox":{
+                    "Id": "Objection777_JojaColaExpanded_DeluxeBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_DeluxeBox",
+                },
+
+                "Objection777_JojaColaExpanded_PremiumBox":{
+                    "Id": "Objection777_JojaColaExpanded_PremiumBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_PremiumBox",
+                    "Condition": "IS_COMMUNITY_CENTER_COMPLETE",
+                },
+
+                "Objection777_JojaColaExpanded_ImportBox":{
+                    "Id": "Objection777_JojaColaExpanded_ImportBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_ImportBox",
+                    "Condition": "YEAR 3",
+                },
+
+
+            },
+
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "Mountain",
+                "Fish",
+            ],
+            "Entries": {
+                "Objection777_JojaColaExpanded_BasicBox":{
+                    "Id": "Objection777_JojaColaExpanded_BasicBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_BasicBox",
+                },
+
+                "Objection777_JojaColaExpanded_DeluxeBox":{
+                    "Id": "Objection777_JojaColaExpanded_DeluxeBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_DeluxeBox",
+                },
+
+                "Objection777_JojaColaExpanded_PremiumBox":{
+                    "Id": "Objection777_JojaColaExpanded_PremiumBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_PremiumBox",
+                    "Condition": "IS_COMMUNITY_CENTER_COMPLETE",
+                },
+
+            },
+
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "IslandWest",
+                "Fish",
+            ],
+            "Entries": {
+                "Objection777_JojaColaExpanded_ImportBox":{
+                    "Id": "Objection777_JojaColaExpanded_ImportBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_ImportBox",
+                },
+
+            },
+
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "IslandSouth",
+                "Fish",
+            ],
+            "Entries": {
+                "Objection777_JojaColaExpanded_ImportBox":{
+                    "Id": "Objection777_JojaColaExpanded_ImportBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_ImportBox",
+                },
+
+            },
+
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "IslandSouthEastCave",
+                "Fish",
+            ],
+            "Entries": {
+                "Objection777_JojaColaExpanded_ImportBox":{
+                    "Id": "Objection777_JojaColaExpanded_ImportBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_ImportBox",
+                },
+
+            },
+
+        },
+
+        //Sewer
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "Sewer",
+                "Fish",
+            ],
+            "Entries": {
+                "Objection777_JojaColaExpanded_BasicBox":{
+                    "Id": "Objection777_JojaColaExpanded_BasicBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_BasicBox",
+                },
+            },
+
+        },
+
+        //caves
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "UndergroundMine",
+                "Fish",
+            ],
+            "Entries": {
+                "Objection777_JojaColaExpanded_BasicBox":{
+                    "Id": "Objection777_JojaColaExpanded_BasicBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_BasicBox",
+                },
+            },
+
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "BugLand",
+                "Fish",
+            ],
+            "Entries": {
+                "Objection777_JojaColaExpanded_BasicBox":{
+                    "Id": "Objection777_JojaColaExpanded_BasicBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_BasicBox",
+                },
+            },
+
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/Locations",
+            "TargetField": [
+                "WitchSwamp",
+                "Fish",
+            ],
+            "Entries": {
+                "Objection777_JojaColaExpanded_BasicBox":{
+                    "Id": "Objection777_JojaColaExpanded_BasicBox",
+                    "ItemId": "(O)Objection777_JojaColaExpanded_BasicBox",
+                },
+            },
+
+        },
+
+    ]
+}

@@ -1,0 +1,109 @@
+{
+
+    //Translation credits to JustTaylor248 on Nexus
+
+    //Joja Cola Expanded
+   
+
+// ####################  COLA BOXES  #########################
+
+    "JCE.Box.Basic.name": "Caixa de Joja Cola",
+    "JCE.Box.Basic.description": "Uma caixa contendo uma lata aleatória de Joja Cola. Estes são bastante comuns. Use para abrir.",
+
+    "JCE.Box.Deluxe.name": "Caixa de Joja Cola Luxuosa",
+    "JCE.Box.Deluxe.description": "Uma caixa menos comum e brega contendo uma lata aleatória de Joja Cola. Use para abrir.",
+
+    "JCE.Box.Premium.name": "Caixa de Joja Cola Premium",
+    "JCE.Box.Premium.description": "Uma caixa profissional rara contendo uma lata aleatória de Joja Cola de alta qualidade. Use para abrir.",
+
+    "JCE.Box.Import.name": "Caixa de Joja Cola Premium Importada",
+    "JCE.Box.Import.description": "Uma caixa incomum, cor de melão contendo uma lata de Joja Cola. Você não entende as letras na caixa. Use para abrir.",
+
+// ####################  COLAS  #########################
+
+
+    "JCE.Cola.Cherry.name": "Joja Cola Cereja",
+    "JCE.Cola.Cherry.description": "A versão vermelha do principal produto da Joja. Uma ambrosia para alguns.",
+    "JCE.Cola.Grape.name": "Joja Cola Uva",
+    "JCE.Cola.Grape.description": "A versão roxa do principal produto da Joja. Contém menos de 1% de suco.",
+    "JCE.Cola.Cream.name": "Joja Cola Creme",
+    "JCE.Cola.Cream.description": "Uma cerveja espumosa, trazida a você pela Joja.",
+    "JCE.Cola.Star.name": "Joja Cola Estrela",
+    "JCE.Cola.Star.description": "O refrigerante de limão da Joja. Recebeu este nome após uma tentativa de reformulação há alguns anos, supostamente com o objetivo de atrair uma geração mais jovem.",
+    "JCE.Cola.Quartz.name": "Joja Cola Quartzo",
+    "JCE.Cola.Quartz.description": "O refrigerante de limão claro trazido a você pela Joja. Favorecido pelos mineiros, talvez não pelos menores. Variante da de dieta.",
+    "JCE.Cola.Bean.name": "Joja Cola Grão",
+    "JCE.Cola.Bean.description": "Uma bebida inspirada no café da Joja.",
+    "JCE.Cola.Punch.name": "Joja Cola Soco de papagaio",
+    "JCE.Cola.Punch.description": "Um ponche de frutas da Joja. Tem um carinha estranho no rótulo.",
+
+    "JCE.Cola.Gamer.name": "Joja Cola Gamer",
+    "JCE.Cola.Gamer.description": "Uma bebida que promove um videogame que já foi adorado. Isso pode valer muito um dia.",
+    "JCE.Cola.BB.name": "Joja Cola BaJoja Blast",
+    "JCE.Cola.BB.description": "Uma bebida incomum com sabor de limão tropical da Joja. Normalmente exclusivo de um restaurante fast-food popular.",
+    "JCE.Cola.HL.name": "Joja Cola Mel Relâmpago",
+    "JCE.Cola.HL.description": "Uma bebida incomum com sabor de pêssego e mel da Joja. Normalmente exclusivo de um restaurante fast-food popular.",
+    "JCE.Cola.Bluu.name": "Joja Cola Azuu",
+    "JCE.Cola.Bluu.description": "Uma nova bebida Azuu da Joja. Tem três vezes mais sorbitol para uma explosão espessa e doce. E é mais barato que água!",
+    "JCE.Cola.Recharge.name": "Joja Cola Recarga",
+    "JCE.Cola.Recharge.description": "Uma bebida energética incomum e esteticamente agradável da Joja. Isso supostamente irá mantê-lo ativo.",
+    "JCE.Cola.Overcharge.name": "Joja Cola Supercarga",
+    "JCE.Cola.Overcharge.description": "Uma bebida energética poderosa e esteticamente agradável da Joja. Não consuma se tiver histórico de problemas cardíacos.",
+    "JCE.Cola.RechargePeach.name": "Joja Cola Recarga de Pêssego",
+    "JCE.Cola.ReachargePeach.description": "Uma bebida energética rosa e esteticamente agradável da Joja.",
+    "JCE.Cola.Battery.name": "Joja Cola Bateria",
+    "JCE.Cola.Battery.description": "Uma bebida energética inspirada em bateria da Joja.",
+
+    "JCE.Cola.JackedCherry.name": "Joja Cola Jacked: Cereja",
+    "JCE.Cola.JackedCherry.description": "Um suplemento dietético com sabor de cereja da Joja. Concede a percepção de poder ilimitado.",
+    "JCE.Cola.Jacked.name": "Joja Cola Jacked",
+    "JCE.Cola.Jacked.description": "Um suplemento dietético com sabor de framboesa azul da Joja. Concede a percepção de resistência ilimitada.",
+    "JCE.Cola.JackedGold.name": "Joja Cola Jacked: Ouro",
+    "JCE.Cola.JackedGold.description": "Um suplemento dietético com sabor de cereal matinal da Joja. Não recomendado para consumo humano.",
+    "JCE.Cola.Void.name": "Joja Cola Vazio",
+    "JCE.Cola.Void.description": "Uma bebida para um mercado alternativo, da Joja. Cheira a enxofre, tem gosto de toranja.",
+    "JCE.Cola.Berserk.name": "Joja Cola Furiosa",
+    "JCE.Cola.Berserk.description": "Um suplemento dietético promocional da Joja. Concede força para desafiar o dia-a-dia.",
+    "JCE.Cola.Z.name": "Joja Cola Z",
+    "JCE.Cola.Z.description": "A versão mais forte do principal produto da Joja.",
+    "JCE.Cola.Burn.name": "Joja Cola Queimadura",
+    "JCE.Cola.Burn.description": "Você tem certeza de que isso é apenas Joja Cola normal. Qualquer coisa acima disso é apenas placebo.",
+    "JCE.Cola.Prism.name": "Joja Cola Orgulho Prismático",
+    "JCE.Cola.Prism.description": "Uma bebida energética poderosa e estranhamente sazonal da Joja.",
+
+    "JCE.Cola.Hydro.name": "Joja Cola Hydro",
+    "JCE.Cola.Hydro.description": "Água versão Joja.",
+    "JCE.Cola.Fantasy.name": "Joja Cola Fantasia",
+    "JCE.Cola.Fantasy.description": "Não pergunte à Joja o que eles faziam há 80 anos.",
+    "JCE.Cola.AllStar.name": "Joja Cola AllStar",
+    "JCE.Cola.AllStar.description": "Uma bebida energética da Joja.",
+    "JCE.Cola.Do.name": "Joja Cola Faça",
+    "JCE.Cola.Do.description": "Uma popular bebida com sabor cítrico da Joja.",
+    "JCE.Cola.DoRed.name": "Joja Cola Faça: Morango codificado",
+    "JCE.Cola.DoRed.description": "Uma bebida vermelha da Joja, inspirada no sucesso de Joja Cola Faça.",
+    "JCE.Cola.DoBlue.name": "Joja Cola Faça: Blue Jazz",
+    "JCE.Cola.DoBlue.description": "Uma bebida azul da Joja, inspirada no sucesso de Joja Cola Faça.",
+    "JCE.Cola.Rip.name": "Joja Cola Descanse Em Paz",
+    "JCE.Cola.Rip.description": "Uma bebida energética barata frequentemente fornecida às tropas da República Ferngill do outro lado do lago.",
+    "JCE.Cola.Gold.name": "Joja Cola Ouro",
+    "JCE.Cola.Gold.description": "Uma variante rara e cara do principal produto da Joja.",
+
+    "JCE.Cola.Freedom.name": "Joja Cola Liberdade",
+    "JCE.Cola.Freedom.description": "Uma variante promocional de Joja Cola, originalmente destinada a comemorar o fim da guerra em Gotoro. Lançado antecipadamente como um golpe publicitário.",
+    "JCE.Cola.Original.name": "Joja Cola Original",
+    "JCE.Cola.Original.description": "A extinta e original receita da Joja Cola. Provavelmente é ilegal possuir ou consumir.",
+    "JCE.Cola.Sarsa.name": "Joja Sarsaparilla",
+    "JCE.Cola.Sarsa.description": "A bebida favorita do Rei da Pradaria.",
+    "JCE.Cola.Pink.name": "Joja Cola Rosa",
+    "JCE.Cola.Pink.description": "Uma variante do principal produto da Joja, tornada mais poderosa por seu rosto rosa.",
+    "JCE.Cola.Wumbus.name": "Edição limitada Joja Wumbus Cola",
+    "JCE.Cola.Wumbus.description": "Uma bebida promocional comemorando a estreia do Wumbus. Anteriormente controverso devido a um copo de refrigerante involuntariamente obsceno usado nos cinemas durante a estreia original.",
+    "JCE.Cola.Rare.name": "Joja Cola Rara",
+    "JCE.Cola.Rare.description": "Uma bebida energética rara, que supostamente contém os sabores mais doces. Supostamente é bastante diluído.",
+    "JCE.Cola.Discovery.name": "Joja Cola Descobertas",
+    "JCE.Cola.Discovery.description": "Uma bebida energética experimental contendo uma fruta antiga recentemente descoberta. Sabor indescritível.",
+    "JCE.Cola.Comet.name": "Joja Cola Cometa",
+    "JCE.Cola.Comet.description": "Uma bebida energética experimental supostamente contendo uma fruta roxa em forma de estrela descoberta em Stardew Valley. Significativamente diluído.",
+
+
+}

@@ -1,0 +1,180 @@
+{
+    //Gift tastes:
+    //Plans
+    //Sam, Kent, Krobus, wizard, dwarf, shane, alex
+
+    //Sam likes most flavors
+    //Kent likes most flavors with caffeine
+    //krobus likes void, pink, wumbus
+    //wizard likes OG, rare fruit flavors
+    //dwarf likes OG, energy drinks
+    //shane likes select flavors
+    //alex likes the preworkout ones
+
+    //edit universals after
+
+
+    "Changes":[
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "LogName": "Universal Tastes",
+            "TextOperations": [
+                {
+                    "Operation": "Append",
+                    "Target": [
+                        "Entries",
+                        "Universal"
+                    ],
+                    "Value":"Objection777_JojaColaExpanded_JC_Cherry Objection777_JojaColaExpanded_JC_Grape Objection777_JojaColaExpanded_JC_Cream Objection777_JojaColaExpanded_JC_Star Objection777_JojaColaExpanded_JC_Quartz Objection777_JojaColaExpanded_JC_Bean Objection777_JojaColaExpanded_JC_ParrotPunch Objection777_JojaColaExpanded_JC_Gamer Objection777_JojaColaExpanded_JC_BajojaBlast Objection777_JojaColaExpanded_JC_HoneyLightning Objection777_JojaColaExpanded_JC_Bluu Objection777_JojaColaExpanded_JC_Recharge Objection777_JojaColaExpanded_JC_Overcharge Objection777_JojaColaExpanded_JC_RechargePeach Objection777_JojaColaExpanded_JC_Battery Objection777_JojaColaExpanded_JC_JackedCherry Objection777_JojaColaExpanded_JC_Jacked Objection777_JojaColaExpanded_JC_JackedGold Objection777_JojaColaExpanded_JC_Void Objection777_JojaColaExpanded_JC_Berserk Objection777_JojaColaExpanded_JC_Z Objection777_JojaColaExpanded_JC_Burn Objection777_JojaColaExpanded_JC_PrismaticPride Objection777_JojaColaExpanded_JC_Hydro Objection777_JojaColaExpanded_JC_Fantasy Objection777_JojaColaExpanded_JC_AllStar Objection777_JojaColaExpanded_JC_Do Objection777_JojaColaExpanded_JC_DoCodeStrawberry Objection777_JojaColaExpanded_JC_DoBlueJazz Objection777_JojaColaExpanded_JC_Rip Objection777_JojaColaExpanded_JC_Gold Objection777_JojaColaExpanded_JC_Freedom Objection777_JojaColaExpanded_JC_OriginalRecipe Objection777_JojaColaExpanded_JC_Sarsaparilla Objection777_JojaColaExpanded_JC_Pink Objection777_JojaColaExpanded_JC_Wumbus Objection777_JojaColaExpanded_JC_Rare Objection777_JojaColaExpanded_JC_Discovery Objection777_JojaColaExpanded_JC_Comet",
+                    "Delimiter": " "
+                },
+            ]
+        },
+
+
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "LogName": "Gift Tastes: Sam",
+            "TextOperations":[
+                {
+                    "Operation": "Append",
+                    "Target": [
+                        "Fields",
+                        "Sam",
+                        3
+                    ],
+                    "Value": "Objection777_JojaColaExpanded_JC_Cherry Objection777_JojaColaExpanded_JC_Grape Objection777_JojaColaExpanded_JC_Cream Objection777_JojaColaExpanded_JC_Star Objection777_JojaColaExpanded_JC_Quartz Objection777_JojaColaExpanded_JC_Bean Objection777_JojaColaExpanded_JC_ParrotPunch Objection777_JojaColaExpanded_JC_Gamer Objection777_JojaColaExpanded_JC_BajojaBlast Objection777_JojaColaExpanded_JC_HoneyLightning Objection777_JojaColaExpanded_JC_Bluu Objection777_JojaColaExpanded_JC_Recharge Objection777_JojaColaExpanded_JC_Overcharge Objection777_JojaColaExpanded_JC_RechargePeach Objection777_JojaColaExpanded_JC_Battery Objection777_JojaColaExpanded_JC_JackedCherry Objection777_JojaColaExpanded_JC_Jacked Objection777_JojaColaExpanded_JC_JackedGold Objection777_JojaColaExpanded_JC_Berserk Objection777_JojaColaExpanded_JC_Z Objection777_JojaColaExpanded_JC_Burn Objection777_JojaColaExpanded_JC_PrismaticPride Objection777_JojaColaExpanded_JC_Hydro Objection777_JojaColaExpanded_JC_Fantasy Objection777_JojaColaExpanded_JC_AllStar Objection777_JojaColaExpanded_JC_Do Objection777_JojaColaExpanded_JC_DoCodeStrawberry Objection777_JojaColaExpanded_JC_DoBlueJazz Objection777_JojaColaExpanded_JC_Rip Objection777_JojaColaExpanded_JC_Gold Objection777_JojaColaExpanded_JC_Freedom Objection777_JojaColaExpanded_JC_OriginalRecipe Objection777_JojaColaExpanded_JC_Sarsaparilla Objection777_JojaColaExpanded_JC_Pink Objection777_JojaColaExpanded_JC_Wumbus Objection777_JojaColaExpanded_JC_Rare Objection777_JojaColaExpanded_JC_Discovery Objection777_JojaColaExpanded_JC_Comet",
+                    "Delimiter": " "
+                }
+            ]
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "LogName": "Gift Tastes: Pam",
+            "TextOperations":[
+                {
+                    "Operation": "Append",
+                    "Target": [
+                        "Fields",
+                        "Pam",
+                        9
+                    ],
+                    "Value": "Objection777_JojaColaExpanded_JC_Cherry Objection777_JojaColaExpanded_JC_Grape Objection777_JojaColaExpanded_JC_Cream Objection777_JojaColaExpanded_JC_Star Objection777_JojaColaExpanded_JC_Quartz Objection777_JojaColaExpanded_JC_Bean Objection777_JojaColaExpanded_JC_ParrotPunch Objection777_JojaColaExpanded_JC_Gamer Objection777_JojaColaExpanded_JC_BajojaBlast Objection777_JojaColaExpanded_JC_HoneyLightning Objection777_JojaColaExpanded_JC_Bluu Objection777_JojaColaExpanded_JC_Recharge Objection777_JojaColaExpanded_JC_Overcharge Objection777_JojaColaExpanded_JC_RechargePeach Objection777_JojaColaExpanded_JC_Battery Objection777_JojaColaExpanded_JC_JackedCherry Objection777_JojaColaExpanded_JC_Jacked Objection777_JojaColaExpanded_JC_JackedGold Objection777_JojaColaExpanded_JC_Berserk Objection777_JojaColaExpanded_JC_Z Objection777_JojaColaExpanded_JC_Burn Objection777_JojaColaExpanded_JC_PrismaticPride Objection777_JojaColaExpanded_JC_Hydro Objection777_JojaColaExpanded_JC_Fantasy Objection777_JojaColaExpanded_JC_AllStar Objection777_JojaColaExpanded_JC_Do Objection777_JojaColaExpanded_JC_DoCodeStrawberry Objection777_JojaColaExpanded_JC_DoBlueJazz Objection777_JojaColaExpanded_JC_Rip Objection777_JojaColaExpanded_JC_Gold Objection777_JojaColaExpanded_JC_Freedom Objection777_JojaColaExpanded_JC_OriginalRecipe Objection777_JojaColaExpanded_JC_Sarsaparilla Objection777_JojaColaExpanded_JC_Pink Objection777_JojaColaExpanded_JC_Wumbus Objection777_JojaColaExpanded_JC_Rare Objection777_JojaColaExpanded_JC_Discovery Objection777_JojaColaExpanded_JC_Comet",
+                    "Delimiter": " "
+                }
+            ]
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "LogName": "Gift Tastes: Kent",
+            "TextOperations":[
+                {
+                    "Operation": "Append",
+                    "Target": [
+                        "Fields",
+                        "Kent",
+                        3
+                    ],
+                    "Value": "Objection777_JojaColaExpanded_JC_Rip"
+                }
+            ]
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "LogName": "Gift Tastes: Krobus",
+            "TextOperations":[
+                {
+                    "Operation": "Append",
+                    "Target": [
+                        "Fields",
+                        "Krobus",
+                        1
+                    ],
+                    "Value": "Objection777_JojaColaExpanded_JC_Void",
+                }
+            ]
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "LogName": "Gift Tastes: Wizard?",
+            "TextOperations":[
+                {
+                    "Operation": "Append",
+                    "Target": [
+                        "Fields",
+                        "Wizard",
+                        3
+                    ],
+                    "Value": "Objection777_JojaColaExpanded_JC_Wumbus Objection777_JojaColaExpanded_JC_OriginalRecipe Objection777_JojaColaExpanded_JC_Sarsaparilla",
+                    "Delimiter": " "
+                }
+            ]
+        },
+
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "LogName": "Gift Tastes: Dwarf",
+            "TextOperations":[
+                {
+                    "Operation": "Append",
+                    "Target": [
+                        "Fields",
+                        "Dwarf",
+                        3
+                    ],
+                    "Value": "Objection777_JojaColaExpanded_JC_Cherry Objection777_JojaColaExpanded_JC_Grape Objection777_JojaColaExpanded_JC_Cream Objection777_JojaColaExpanded_JC_Star Objection777_JojaColaExpanded_JC_Quartz Objection777_JojaColaExpanded_JC_Bean Objection777_JojaColaExpanded_JC_ParrotPunch Objection777_JojaColaExpanded_JC_Gamer Objection777_JojaColaExpanded_JC_BajojaBlast Objection777_JojaColaExpanded_JC_HoneyLightning Objection777_JojaColaExpanded_JC_Bluu Objection777_JojaColaExpanded_JC_Recharge Objection777_JojaColaExpanded_JC_Overcharge Objection777_JojaColaExpanded_JC_RechargePeach Objection777_JojaColaExpanded_JC_Battery Objection777_JojaColaExpanded_JC_JackedCherry Objection777_JojaColaExpanded_JC_Jacked Objection777_JojaColaExpanded_JC_JackedGold Objection777_JojaColaExpanded_JC_Void Objection777_JojaColaExpanded_JC_Berserk Objection777_JojaColaExpanded_JC_Z Objection777_JojaColaExpanded_JC_Burn Objection777_JojaColaExpanded_JC_PrismaticPride Objection777_JojaColaExpanded_JC_Hydro Objection777_JojaColaExpanded_JC_Fantasy Objection777_JojaColaExpanded_JC_AllStar Objection777_JojaColaExpanded_JC_Do Objection777_JojaColaExpanded_JC_DoCodeStrawberry Objection777_JojaColaExpanded_JC_DoBlueJazz Objection777_JojaColaExpanded_JC_Rip Objection777_JojaColaExpanded_JC_Gold Objection777_JojaColaExpanded_JC_Freedom Objection777_JojaColaExpanded_JC_OriginalRecipe Objection777_JojaColaExpanded_JC_Sarsaparilla Objection777_JojaColaExpanded_JC_Pink Objection777_JojaColaExpanded_JC_Wumbus Objection777_JojaColaExpanded_JC_Rare Objection777_JojaColaExpanded_JC_Discovery Objection777_JojaColaExpanded_JC_Comet",
+                    "Delimiter": " "
+                }
+            ]
+        },
+
+        {//loves preworkout
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "LogName": "Gift Tastes: Alex",
+            "TextOperations":[
+                {//love preworkout
+                    "Operation": "Append",
+                    "Target": [
+                        "Fields",
+                        "Alex",
+                        1
+                    ],
+                    "Value": "Objection777_JojaColaExpanded_JC_JackedCherry Objection777_JojaColaExpanded_JC_Jacked Objection777_JojaColaExpanded_JC_JackedGold",
+                    "Delimiter": " "
+                },
+                {//like water
+                    "Operation": "Append",
+                    "Target": [
+                        "Fields",
+                        "Alex",
+                        3
+                    ],
+                    "Value": "Objection777_JojaColaExpanded_JC_Hydro",
+                },
+
+            ]
+        },
+
+
+
+
+
+
+
+
+
+
+    ]
+}

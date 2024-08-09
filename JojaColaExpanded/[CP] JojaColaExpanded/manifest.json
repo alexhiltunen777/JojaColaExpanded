@@ -1,0 +1,11 @@
+{
+    "Name": "Joja Cola Expanded",
+    "Author": "Objection777",
+    "Version": "1.0.4",
+    "Description": "Adds variants of Joja Cola to the game",
+    "UniqueID": "Objection777.JojaColaExpanded",
+    "UpdateKeys": ["Nexus:???"],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    },
+}

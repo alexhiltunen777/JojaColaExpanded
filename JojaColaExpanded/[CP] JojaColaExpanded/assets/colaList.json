@@ -1,0 +1,1936 @@
+{
+"Changes":[
+
+    {
+        
+                    
+                    "Action": "EditData",
+                    "Target": "Data/Objects",
+                    "Entries": {
+                       
+                        //SODAS START HERE
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Cherry
+                        "Objection777_JojaColaExpanded_JC_Cherry": {
+                            "Name": "Joja Cola Cherry",
+                            "DisplayName": "{{i18n:JCE.Cola.Cherry.name}}",
+                            "Description": "{{i18n:JCE.Cola.Cherry.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 1,
+                            "Edibility": 15,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 80, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_red",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+        
+                        "Objection777_JojaColaExpanded_JC_Grape": {
+                            "Name": "Joja Cola Grape",
+                            "DisplayName": "{{i18n:JCE.Cola.Grape.name}}",
+                            "Description": "{{i18n:JCE.Cola.Grape.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 2,
+                            "Edibility": 15,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 80, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_purple",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+        
+                        "Objection777_JojaColaExpanded_JC_Cream": {
+                            "Name": "Joja Cola Cream",
+                            "DisplayName": "{{i18n:JCE.Cola.Cream.name}}",
+                            "Description": "{{i18n:JCE.Cola.Cream.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 3,
+                            "Edibility": 20,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 1.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_brown",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+        
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Star
+                        "Objection777_JojaColaExpanded_JC_Star": {
+                            "Name": "Joja Cola Star",
+                            "DisplayName": "{{i18n:JCE.Cola.Star.name}}",
+                            "Description": "{{i18n:JCE.Cola.Star.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 4,
+                            "Edibility": 15,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 70, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 1.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_green",
+                                "color_yellow",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+        
+        
+        
+        
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Quartz
+                        "Objection777_JojaColaExpanded_JC_Quartz": {
+                            "Name": "Joja Cola Quartz",
+                            "DisplayName": "{{i18n:JCE.Cola.Quartz.name}}",
+                            "Description": "{{i18n:JCE.Cola.Quartz.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 5,
+                            "Edibility": 20,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 90, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 1.0,
+                                        "LuckLevel": 1.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_white",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+        
+        
+        
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Bean
+                        "Objection777_JojaColaExpanded_JC_Bean": {
+                            "Name": "Joja Cola Bean",
+                            "DisplayName": "{{i18n:JCE.Cola.Bean.name}}",
+                            "Description": "{{i18n:JCE.Cola.Bean.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 6,
+                            "Edibility": 20,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 280, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_brown",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+        
+        
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Cherry
+                        "Objection777_JojaColaExpanded_JC_ParrotPunch": {
+                            "Name": "Joja Cola Parrot Punch",
+                            "DisplayName": "{{i18n:JCE.Cola.Punch.name}}",
+                            "Description": "{{i18n:JCE.Cola.Punch.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 7,
+                            "Edibility": 25,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 170, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 1.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_red",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+        
+        
+        
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Gamer
+                        "Objection777_JojaColaExpanded_JC_Gamer": {
+                            "Name": "Joja Cola Gamer",
+                            "DisplayName": "{{i18n:JCE.Cola.Gamer.name}}",
+                            "Description": "{{i18n:JCE.Cola.Gamer.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 8,
+                            "Edibility": 15,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 1.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 2.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 1.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_orange",
+                                "color_red",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+        
+        
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_BajojaBlast
+                        "Objection777_JojaColaExpanded_JC_BajojaBlast": {
+                            "Name": "Joja Cola BaJoja Blast",
+                            "DisplayName": "{{i18n:JCE.Cola.BB.name}}",
+                            "Description": "{{i18n:JCE.Cola.BB.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 9,
+                            "Edibility": 20,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 200, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 1.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_cyan",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+        
+        
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_HoneyLightning
+                        "Objection777_JojaColaExpanded_JC_HoneyLightning": {
+                            "Name": "Joja Cola Honey Lightning",
+                            "DisplayName": "{{i18n:JCE.Cola.HL.name}}",
+                            "Description": "{{i18n:JCE.Cola.HL.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 10,
+                            "Edibility": 15,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 170, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 1.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 2.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_yellow",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+        
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Bluu
+                        "Objection777_JojaColaExpanded_JC_Bluu": {
+                            "Name": "Joja Cola Bluu",
+                            "DisplayName": "{{i18n:JCE.Cola.Bluu.name}}",
+                            "Description": "{{i18n:JCE.Cola.Bluu.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 11,
+                            "Edibility": 10,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 80, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_blue",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Recharge
+                        "Objection777_JojaColaExpanded_JC_Recharge": {
+                            "Name": "Joja Cola Recharge",
+                            "DisplayName": "{{i18n:JCE.Cola.Recharge.name}}",
+                            "Description": "{{i18n:JCE.Cola.Recharge.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 12,
+                            "Edibility": 30,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 120, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 20.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_yellow",
+                                "color_black",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Overcharge
+                        "Objection777_JojaColaExpanded_JC_Overcharge": {
+                            "Name": "Joja Cola Overcharge",
+                            "DisplayName": "{{i18n:JCE.Cola.Overcharge.name}}",
+                            "Description": "{{i18n:JCE.Cola.Overcharge.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 13,
+                            "Edibility": 40,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 200, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 40.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_green",
+                                "color_black",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_RechargePeach
+                        "Objection777_JojaColaExpanded_JC_RechargePeach": {
+                            "Name": "Joja Cola Recharge Peach",
+                            "DisplayName": "{{i18n:JCE.Cola.RechargePeach.name}}",
+                            "Description": "{{i18n:JCE.Cola.ReachargePeach.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 14,
+                            "Edibility": 30,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 140, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 30.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_pink",
+                                "color_black",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Battery
+                        "Objection777_JojaColaExpanded_JC_Battery": {
+                            "Name": "Joja Cola Battery",
+                            "DisplayName": "{{i18n:JCE.Cola.Battery.name}}",
+                            "Description": "{{i18n:JCE.Cola.Battery.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 15,
+                            "Edibility": 20,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 90, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 1.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 20.0,
+                                        "MagneticRadius": 10.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_cyan",
+                                "color_yellow",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_JackedCherry
+                        "Objection777_JojaColaExpanded_JC_JackedCherry": {
+                            "Name": "Joja Cola Jacked: Cherry",
+                            "DisplayName": "{{i18n:JCE.Cola.JackedCherry.name}}",
+                            "Description": "{{i18n:JCE.Cola.JackedCherry.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 16,
+                            "Edibility": 5,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 3.0,
+                                        "Defense": 0.0,
+                                        "Attack": 5.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_red",
+                                "color_black",
+                                "color_yellow",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Jacked
+                        "Objection777_JojaColaExpanded_JC_Jacked": {
+                            "Name": "Joja Cola Jacked",
+                            "DisplayName": "{{i18n:JCE.Cola.Jacked.name}}",
+                            "Description": "{{i18n:JCE.Cola.Jacked.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 17,
+                            "Edibility": 5,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 10.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 3.0,
+                                        "Defense": 0.0,
+                                        "Attack": 5.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_blue",
+                                "color_black",
+                                "color_yellow",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_JackedGold
+                        "Objection777_JojaColaExpanded_JC_JackedGold": {
+                            "Name": "Joja Cola Jacked: Gold",
+                            "DisplayName": "{{i18n:JCE.Cola.JackedGold.name}}",
+                            "Description": "{{i18n:JCE.Cola.JackedGold.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 25,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 18,
+                            "Edibility": 5,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 1.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 10.0,
+                                        "MagneticRadius": 10.0,
+                                        "Speed": 3.0,
+                                        "Defense": 1.0,
+                                        "Attack": 7.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_black",
+                                "color_yellow",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Void
+                        "Objection777_JojaColaExpanded_JC_Void": {
+                            "Name": "Joja Cola Void",
+                            "DisplayName": "{{i18n:JCE.Cola.Void.name}}",
+                            "Description": "{{i18n:JCE.Cola.Void.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 25,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 19,
+                            "Edibility": -5,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 10.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 8.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_red",
+                                "color_black",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Berserk
+                        "Objection777_JojaColaExpanded_JC_Berserk": {
+                            "Name": "Joja Cola Berserk",
+                            "DisplayName": "{{i18n:JCE.Cola.Berserk.name}}",
+                            "Description": "{{i18n:JCE.Cola.Berserk.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 25,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 20,
+                            "Edibility": 5,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 40, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 5.0,
+                                        "Speed": 0.0,
+                                        "Defense": 0.0,
+                                        "Attack": 10.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_red",
+                                "color_black",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Z
+                        "Objection777_JojaColaExpanded_JC_Z": {
+                            "Name": "Joja Cola Z",
+                            "DisplayName": "{{i18n:JCE.Cola.Z.name}}",
+                            "Description": "{{i18n:JCE.Cola.Z.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 25,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 21,
+                            "Edibility": 10,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 80, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 1.0,
+                                        "Attack": 5.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_blue",
+                                "color_orange",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Burn
+                        "Objection777_JojaColaExpanded_JC_Burn": {
+                            "Name": "Joja Cola Burn",
+                            "DisplayName": "{{i18n:JCE.Cola.Burn.name}}",
+                            "Description": "{{i18n:JCE.Cola.Burn.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 15,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 22,
+                            "Edibility": 5,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_red",
+                                "color_black",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_PrismaticPride
+                        "Objection777_JojaColaExpanded_JC_PrismaticPride": {
+                            "Name": "Joja Cola Prismatic Pride",
+                            "DisplayName": "{{i18n:JCE.Cola.Prism.name}}",
+                            "Description": "{{i18n:JCE.Cola.Prism.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 25,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 23,
+                            "Edibility": 15,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 70, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 1.0,
+                                        "FishingLevel": 1.0,
+                                        "MiningLevel": 2.0,
+                                        "LuckLevel": 1.0,
+                                        "ForagingLevel": 2.0,
+                                        "MaxStamina": 20.0,
+                                        "MagneticRadius": 5.0,
+                                        "Speed": 1.0,
+                                        "Defense": 3.0,
+                                        "Attack": 3.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_prismatic",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Hydro
+                        "Objection777_JojaColaExpanded_JC_Hydro": {
+                            "Name": "Joja Cola Hydro",
+                            "DisplayName": "{{i18n:JCE.Cola.Hydro.name}}",
+                            "Description": "{{i18n:JCE.Cola.Hydro.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 15,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 24,
+                            "Edibility": 15,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 0, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 0.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_black",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Fantasy
+                        "Objection777_JojaColaExpanded_JC_Fantasy": {
+                            "Name": "Joja Cola Fantasy",
+                            "DisplayName": "{{i18n:JCE.Cola.Fantasy.name}}",
+                            "Description": "{{i18n:JCE.Cola.Fantasy.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 15,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 25,
+                            "Edibility": 15,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_orange",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_AllStar
+                        "Objection777_JojaColaExpanded_JC_AllStar": {
+                            "Name": "Joja Cola AllStar",
+                            "DisplayName": "{{i18n:JCE.Cola.AllStar.name}}",
+                            "Description": "{{i18n:JCE.Cola.AllStar.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 15,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 26,
+                            "Edibility": 8,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 80, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 10.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_black",
+                                "color_yellow",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Do
+                        "Objection777_JojaColaExpanded_JC_Do": {
+                            "Name": "Joja Cola Do",
+                            "DisplayName": "{{i18n:JCE.Cola.Do.name}}",
+                            "Description": "{{i18n:JCE.Cola.Do.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 27,
+                            "Edibility": 7,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_green",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_DoCodeStrawberry
+                        "Objection777_JojaColaExpanded_JC_DoCodeStrawberry": {
+                            "Name": "Joja Cola Do: Code Strawberry",
+                            "DisplayName": "{{i18n:JCE.Cola.DoRed.name}}",
+                            "Description": "{{i18n:JCE.Cola.DoRed.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 28,
+                            "Edibility": 7,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_red",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_DoBlueJazz
+                        "Objection777_JojaColaExpanded_JC_DoBlueJazz": {
+                            "Name": "Joja Cola Do: Blue Jazz",
+                            "DisplayName": "{{i18n:JCE.Cola.DoBlue.name}}",
+                            "Description": "{{i18n:JCE.Cola.DoBlue.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 29,
+                            "Edibility": 7,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_blue",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Rip
+                        "Objection777_JojaColaExpanded_JC_Rip": {
+                            "Name": "Joja Cola Rip",
+                            "DisplayName": "{{i18n:JCE.Cola.Rip.name}}",
+                            "Description": "{{i18n:JCE.Cola.Rip.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 10,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 30,
+                            "Edibility": 15,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 1.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_blue",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Gold
+                        "Objection777_JojaColaExpanded_JC_Gold": {
+                            "Name": "Joja Cola Gold",
+                            "DisplayName": "{{i18n:JCE.Cola.Gold.name}}",
+                            "Description": "{{i18n:JCE.Cola.Gold.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 25,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 31,
+                            "Edibility": 15,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 1.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 1.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 1.0,
+                                        "MaxStamina": 10.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_gold",
+                                "drink_item"
+                                
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Freedom
+                        "Objection777_JojaColaExpanded_JC_Freedom": {
+                            "Name": "Joja Cola Freedom",
+                            "DisplayName": "{{i18n:JCE.Cola.Freedom.name}}",
+                            "Description": "{{i18n:JCE.Cola.Freedom.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 32,
+                            "Edibility": 6,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_red",
+                                "color_blue",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_OriginalRecipe
+                        "Objection777_JojaColaExpanded_JC_OriginalRecipe": {
+                            "Name": "Joja Cola Original Recipe",
+                            "DisplayName": "{{i18n:JCE.Cola.Original.name}}",
+                            "Description": "{{i18n:JCE.Cola.Original.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 33,
+                            "Edibility": 5,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 77, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 2.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 30.0,
+                                        "MagneticRadius": 5.0,
+                                        "Speed": 8.0,
+                                        "Defense": 2.0,
+                                        "Attack": 3.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_blue",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Sarsaparilla
+                        "Objection777_JojaColaExpanded_JC_Sarsaparilla": {
+                            "Name": "Joja Sarsaparilla",
+                            "DisplayName": "{{i18n:JCE.Cola.Sarsa.name}}",
+                            "Description": "{{i18n:JCE.Cola.Sarsa.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 34,
+                            "Edibility": 20,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 1.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 3.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_blue",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Pink
+                        "Objection777_JojaColaExpanded_JC_Pink": {
+                            "Name": "Joja Cola Pink",
+                            "DisplayName": "{{i18n:JCE.Cola.Pink.name}}",
+                            "Description": "{{i18n:JCE.Cola.Pink.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 35,
+                            "Edibility": 10,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 1.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_pink",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Wumbus
+                        "Objection777_JojaColaExpanded_JC_Wumbus": {
+                            "Name": "Limited Edition Joja Wumbus Cola",
+                            "DisplayName": "{{i18n:JCE.Cola.Wumbus.name}}",
+                            "Description": "{{i18n:JCE.Cola.Wumbus.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 36,
+                            "Edibility": 7,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 100, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 2.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 2.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_green",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Rare
+                        "Objection777_JojaColaExpanded_JC_Rare": {
+                            "Name": "Joja Cola Rare",
+                            "DisplayName": "{{i18n:JCE.Cola.Rare.name}}",
+                            "Description": "{{i18n:JCE.Cola.Rare.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 37,
+                            "Edibility": 35,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 100, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 2.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 2.0,
+                                        "MaxStamina": 20.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_orange",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Discovery
+                        "Objection777_JojaColaExpanded_JC_Discovery": {
+                            "Name": "Joja Cola Discovery",
+                            "DisplayName": "{{i18n:JCE.Cola.Discovery.name}}",
+                            "Description": "{{i18n:JCE.Cola.Discovery.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 38,
+                            "Edibility": 40,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 60, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 0.0,
+                                        "FishingLevel": 0.0,
+                                        "MiningLevel": 0.0,
+                                        "LuckLevel": 0.0,
+                                        "ForagingLevel": 0.0,
+                                        "MaxStamina": 0.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 1.0,
+                                        "Defense": 0.0,
+                                        "Attack": 0.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_cyan",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+                        //////////////////////////////////////////////////////////////////
+                        //(O)Objection777_JojaColaExpanded_JC_Comet
+                        "Objection777_JojaColaExpanded_JC_Comet": {
+                            "Name": "Joja Cola Comet",
+                            "DisplayName": "{{i18n:JCE.Cola.Comet.name}}",
+                            "Description": "{{i18n:JCE.Cola.Comet.description}}",
+                            "Type": "Fish",
+                            "Category": -20,
+                            "Price": 20,
+                            "Texture": "Mods\\Objection777.JojaColaExpanded\\JojaCola",
+                            "SpriteIndex": 39,
+                            "Edibility": 40,
+                            "IsDrink": true,
+                            "ExcludeFromFishingCollection": true,
+                            "ExcludeFromShippingCollection": true,
+                            "ExcludeFromRandomSale": true,
+                            "Buffs": [
+                                {
+                                    "Id": "Drink",
+                                    "BuffId": null,
+                                    "IconTexture": null,
+                                    "IconSpriteIndex": 0,
+                                    "Duration": 200, //20 default
+                                    "IsDebuff": false,
+                                    "GlowColor": null,
+                                    "CustomAttributes": {
+                                        "FarmingLevel": 1.0,
+                                        "FishingLevel": 1.0,
+                                        "MiningLevel": 1.0,
+                                        "LuckLevel": 1.0,
+                                        "ForagingLevel": 1.0,
+                                        "MaxStamina": 50.0,
+                                        "MagneticRadius": 0.0,
+                                        "Speed": 2.0,
+                                        "Defense": 3.0,
+                                        "Attack": 3.0
+                                    },
+                                    "CustomFields": null,
+                                },
+                            ],
+                            "ContextTags": [
+                                "color_purple",
+                                "drink_item"
+                            ],
+                            "CustomFields": null,
+                        },
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                        //end of entries
+                    }
+                }
+
+
+
+
+
+
+
+
+]
+}
